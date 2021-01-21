@@ -1,6 +1,6 @@
 # flutter_dev
 
-Flutter template.  
+is flutter template.  
 
 ``` dart
 dependencies: getX;
